@@ -35,5 +35,5 @@ curl -X POST http://localhost:8080/movie \
 ## Build & Run
 
 ```bash
-./mvnw spring-boot:run
+mvn spring-boot:run
 ```
